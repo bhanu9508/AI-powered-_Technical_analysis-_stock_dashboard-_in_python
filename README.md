@@ -1,8 +1,8 @@
-# 📊 AI-Powered Technical Analysis Stock Dashboard
+#  AI-Powered Technical Analysis Stock Dashboard
 
 This project is part of a group assignment under the IIT Patna Hybrid Degree CSDA program. It is a Python-based web app that allows users to fetch and visualize stock data using AI and technical analysis tools.
 
-## 🔧 Features
+##  Features
 
 - Input stock symbol and date range
 - Fetch historical stock data from Yahoo Finance using `yfinance`
@@ -10,15 +10,15 @@ This project is part of a group assignment under the IIT Patna Hybrid Degree CSD
 - Plot closing prices over time using `matplotlib`
 - Simple and interactive UI using `Streamlit`
 
-## 📚 Technologies Used
+##  Technologies Used
 
-- Python 3
+- Python 
 - Streamlit
 - Pandas
 - yfinance
 - Matplotlib
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
