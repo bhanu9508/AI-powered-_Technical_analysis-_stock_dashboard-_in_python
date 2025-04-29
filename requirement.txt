@@ -1,11 +1,6 @@
-##Install required libraries
-#To run the Python code, some libraries (like streamlit, pandas, matplotlib, yfinance) need to be installed.
+streamlit
+pandas
+matplotlib
+yfinance
 
-#So you open your command prompt / terminal, and type:
-
-pip install streamlit pandas matplotlib yfinance
-
-
-2.Run the code
-streamlit run app.py
 
