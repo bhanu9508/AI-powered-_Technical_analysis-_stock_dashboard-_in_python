@@ -25,10 +25,8 @@ This project is part of a group assignment under the IIT Patna Hybrid Degree CSD
    git clone https://github.com/bhanu9508/AI-powered-_Technical_analysis-_stock_dashboard-_in_python.git
    cd AI-powered-_Technical_analysis-_stock_dashboard-_in_python
 
-#install the required dependencies
 pip install -r requirement.txt
 
-#run the streamlit app
 streamlit run app.py
 
 
